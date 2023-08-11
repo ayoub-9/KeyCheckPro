@@ -29,7 +29,7 @@ namespace EngineMova
             else
             {
                 Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine($"EngineMova is active enjoy (: - {daysLeft} days left until expiry.");
+                Console.WriteLine($"KeyCheckProis active enjoy (: - {daysLeft} days left until expiry.");
             }
 
             Console.WriteLine("Press any key to exit...");
